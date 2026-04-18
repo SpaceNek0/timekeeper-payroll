@@ -1,0 +1,6 @@
+@hris.Server_HostAddress = http://localhost:5169
+
+GET {{hris.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

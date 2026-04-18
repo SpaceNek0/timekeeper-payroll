@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="hris.client/hris.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="hris.Server/hris.Server.csproj" />
+</Solution>
